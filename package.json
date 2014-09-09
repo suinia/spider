@@ -1,0 +1,9 @@
+{
+  "name": "suinia_splider",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "2.40.0",
+    "xml2js": "0.4.4",
+    "cheerio": "0.17.0"
+  }
+}
